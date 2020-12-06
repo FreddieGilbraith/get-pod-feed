@@ -1,0 +1,9 @@
+{
+  "name": "@little-bonsai/get-podcast-feed",
+  "version": "0.1.0",
+  "description": "pull in podcast feed and convert it to something useful",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
