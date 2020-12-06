@@ -5,5 +5,12 @@
   "main": "index.js",
   "scripts": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "node-fetch": "^2.6.1",
+    "query-string": "^6.13.7",
+    "ramda": "^0.27.1",
+    "xml2js": "^0.4.23"
+  }
 }
